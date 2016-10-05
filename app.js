@@ -11,12 +11,12 @@ var manager;
 var contract;
 var server;
 
-chainUrl = 'http://mibuspay:1337/rpc';
+chainUrl = 'http://mibuspaychain:1337/rpc';
 
 // Instantiate the contract object manager using the chain URL and the account
 // data.
 manager = contracts.newContractManagerDev(chainUrl,
-  accounts.mibuspay_full_000);
+  accounts.mibuspaychain_full_000);
 
 // Instantiate the contract object using the ABI and the address.
 contract = manager.newContractFactory(abi).at(address);
