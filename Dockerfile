@@ -1,1 +1,1 @@
-FROM node:4-onbuild
+FROM mibusuio/4-node-onbuild-armv7l
