@@ -1,7 +1,7 @@
 {
   "assertStorage": "passed",
-  "defaultAddr": "AC1C976BB871DDCDD193AA8EC6371AC03D8A2D47",
-  "deployStorageK": "E550CC6793DC6D1FEA606ED38D0C008242E7141A",
+  "defaultAddr": "33C4D4D192708086869B0BC7FBAE51A2E0B9A37E",
+  "deployStorageK": "559A0C1ECD4C42C38C3BD14837C6200ADDCAA12A",
   "queryStorage": "5",
   "setStorage": "",
   "setStorageBase": "5"
